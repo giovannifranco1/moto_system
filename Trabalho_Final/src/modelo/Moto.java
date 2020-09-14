@@ -12,7 +12,7 @@ import java.time.LocalDate;
 import java.util.*;
 
 public class Moto extends Veiculo implements Impressao {
-    // Atributos da classe Moto
+    // Atributos da classe Moto.
     private Motor motor;
     private String modelo;
     private Double quilometros;
